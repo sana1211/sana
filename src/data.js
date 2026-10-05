@@ -17,6 +17,7 @@ export const PROJECTS = [
     color: 'magenta',
     desc: 'Secure digital passport management platform designed to simplify passport applications, verification, and document processing.',
     stack: ['React', 'Node.js', 'WebSockets', 'PostgreSQL'],
+    repo: 'https://github.com/sana1211/E-Passport-Booking-System',
   },
   {
     title: 'Employee Management System',
@@ -24,6 +25,7 @@ export const PROJECTS = [
     color: 'amber',
     desc: "A centralized web platform for managing employee records, attendance, roles, and organizational activities efficiently.",
     stack: ['Next.js', 'TypeScript', 'Tremor', 'Supabase'],
+    repo: 'https://github.com/sana1211',
   },
   {
     title: 'AgriTwin AI',
@@ -31,6 +33,7 @@ export const PROJECTS = [
     color: 'mint',
     desc: 'An AI-powered smart farming platform that helps farmers monitor crops, manage farms, and make data-driven agricultural decisions.',
     stack: ['React Native', 'GraphQL', 'Redis'],
+    repo: 'https://github.com/sana1211',
   },
   {
     title: 'Mobile Wallpaper Downloader WebSite',
@@ -38,6 +41,7 @@ export const PROJECTS = [
     color: 'violet',
     desc: "A responsive web platform that allows users to explore, search, and download high-quality wallpapers for mobile devices.",
     stack: ['Python', 'FastAPI', 'React', 'Airflow'],
+    repo: 'https://github.com/sana1211/Wallpaper-4k',
   },
   {
     title: 'Automatic Plant Watering System',
@@ -45,6 +49,31 @@ export const PROJECTS = [
     color: 'magenta',
     desc: "An Arduino-based smart irrigation system that automatically monitors soil moisture and waters plants when needed.",
     stack: ['Python', 'FastAPI', 'React', 'Airflow'],
+    repo: 'https://github.com/sana1211/Automatic_Plant_Watering_System',
+  },
+  {
+    title: 'Real Time People Counter',
+    tag: 'Python',
+    color: 'magenta',
+    desc: "AI-powered real-time people counting system that detects and tracks people using a camera, accurately counting entries and exits with live occupancy and performance monitoring.",
+    stack: ['Python', 'YOLO11', 'OpenCV', 'ByteTrack', 'NumPy'],
+    repo: 'https://github.com/sana1211/Real-Time-People-Counter',
+  },
+  {
+    title: 'Wedding Gallery Celebration Story',
+    tag: 'Website',
+    color: 'magenta',
+    desc: "Interactive wedding website with a photo gallery, love story timeline, guestbook, photo uploads, favorites, and event details.",
+    stack: ['React.js' , 'TypeScript' , 'Tailwind CSS' , 'Vite' , 'Responsive Web Design'],
+    repo: 'https://sana1211.github.io/wedding-gallery-celebration',
+  },
+  {
+    title: 'Wedding Invitation Card',
+    tag: 'WEbsite',
+    color: 'magenta',
+    desc: "Elegant digital wedding invitation featuring countdowns, RSVP, event details, animations, and a responsive design.",
+    stack: ['React.js' , 'TypeScript' , 'Tailwind CSS' , 'Vite' , 'Responsive Web Design'],
+    repo: 'https://sana1211.github.io/Wedding-invitation',
   },
 ]
 
